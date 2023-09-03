@@ -40,6 +40,11 @@
                 <configuration>
                     <mainClass>com.bytesmyth.gol.App</mainClass>
                 </configuration>
+              <!--
+<properties>
+<java.version>11</java.version>
+</properties>
+-->
             </plugin>
         </plugins>
     </build>
